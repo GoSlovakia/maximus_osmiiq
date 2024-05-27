@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Store Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Store
+  m_TableCollectionNameGuidString: 958ba948855f9064b8ffbd8a65c19a92
+  m_Entries:
+  - m_Id: 967219585024
+    m_Key: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646198812672
+    m_Key: Singular Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5000005132288
+    m_Key: Qraate Packs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5954414813184
+    m_Key: Buy Cards Directly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6264348712960
+    m_Key: Buy Qraates to unlock new cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6457668378624
+    m_Key: Convert Qiis into Quiids
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7314367553536
+    m_Key: Confirm Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7520555343872
+    m_Key: Get your card now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7656647925760
+    m_Key: Class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7692781854720
+    m_Key: Type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7727397445632
+    m_Key: Domain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7789590585344
+    m_Key: Buy card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7973120745472
+    m_Key: Big Qraate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8051482927104
+    m_Key: Massive Qraate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8109804724224
+    m_Key: 1 Rare guaranteed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8234652377088
+    m_Key: 1 Epic guaranteed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8312901312512
+    m_Key: 1 Legendary guaranteed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8468925227008
+    m_Key: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8528954105856
+    m_Key: Take your chances and complete your sets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8825432678400
+    m_Key: Common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864968187904
+    m_Key: Rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8907091582976
+    m_Key: Epic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8958291451904
+    m_Key: Legendary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8992969957376
+    m_Key: Total Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9074922463232
+    m_Key: Min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9137488896000
+    m_Key: Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9176101658624
+    m_Key: BUY AND OPEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9357350117376
+    m_Key: 'You received:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9463440842752
+    m_Key: TAP TO DISMISS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14749119520768
+    m_Key: Owned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14792182439936
+    m_Key: REFRESHES IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14923342520320
+    m_Key: Claimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6511203606568960
+    m_Key: New
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6511249597112320
+    m_Key: Duplicate
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 347260123044904972
+  references:
+    version: 2
+    RefIds:
+    - rid: 347260123044904972
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678560735378

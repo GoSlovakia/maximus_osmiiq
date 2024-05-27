@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Inventory Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Inventory
+  m_TableCollectionNameGuidString: c25b0b8ef8ec1f448b3646a7ab051766
+  m_Entries:
+  - m_Id: 10972798976
+    m_Key: Sets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107798306816
+    m_Key: My staash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 174642929664
+    m_Key: Hide Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360186355712
+    m_Key: Hide Unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3748827471872
+    m_Key: Domain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3801189163008
+    m_Key: Incomplete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9313813241856
+    m_Key: Duplicates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9361368260608
+    m_Key: Rarity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863169375444992
+    m_Key: Burn Duplicates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863359444525056
+    m_Key: Get Quiids from your duplicates!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863516324077568
+    m_Key: BURN FOR QUIIDS
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 347260123044904967
+  references:
+    version: 2
+    RefIds:
+    - rid: 347260123044904967
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678558348350

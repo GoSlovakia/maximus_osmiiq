@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c25b0b8ef8ec1f448b3646a7ab051766, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 9ecdc461646aa2747b785e7200162527, type: 2}
+  - {fileID: 11400000, guid: 86f5a7a5f418ab1419411d5abfcc861c, type: 2}
+  - {fileID: 11400000, guid: 0e9e02f5a6b903c4c96bc14df0310dd8, type: 2}
+  - {fileID: 11400000, guid: 584c30f79044b8d47a44d9378c717f87, type: 2}
+  - {fileID: 11400000, guid: d7966a3d72fc0534ea207e67694e17dc, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

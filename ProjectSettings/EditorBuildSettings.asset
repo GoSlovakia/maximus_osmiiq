@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Preloading.unity
+    guid: 6c60b2f371da5ae459a9fe8495174301
+  - enabled: 1
+    path: Assets/Scenes/Login Scene.unity
+    guid: e847766a33377a7478429bb579f312bd
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d471c5352d01e6c45a34656436886ef6
+  - enabled: 1
+    path: Assets/Scenes/Avatar Creation.unity
+    guid: 1d9636e63e58d4a4482797fd51f330bb
+  - enabled: 1
+    path: Assets/Scenes/Inventario.unity
+    guid: 5a5472d4a59196e4eb59732f94337854
+  - enabled: 1
+    path: Assets/Scenes/StoreMain.unity
+    guid: 72d431e3db5568449821ac9aa6b4b2c8
+  - enabled: 1
+    path: Assets/Scenes/ChangeTitles.unity
+    guid: 96dc7eea1edbb1a47902d058ba6527c8
+  - enabled: 1
+    path: Assets/Scenes/Achievements.unity
+    guid: c18476ac592ddbb46b725daa3ca10c9f
+  - enabled: 1
+    path: Assets/Scenes/Inbox.unity
+    guid: 28ce2f8325eeb3945a4c918f6e561866
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 90db6f222b445a349b30421a21ca4564, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: c98fc55da72880141870fb004e43d351, type: 2}

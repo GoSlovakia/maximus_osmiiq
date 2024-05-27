@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: CardSets
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: a2cdc6d0de2388444aef7a1b1fc3782d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: f383c42d34dbd514e836cb3cd69a3b29, type: 2}
+  - {fileID: 11400000, guid: 644c20d33c884dc42aaf50c58415acb5, type: 2}
+  - {fileID: 11400000, guid: 54c45c23e70f3d1459fd2b0bfa47f8ac, type: 2}
+  - {fileID: 11400000, guid: c4efc02f3f338654fb7210a8a72d8a1e, type: 2}
+  - {fileID: 11400000, guid: e145ad17bb9174f459454e076f674cea, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

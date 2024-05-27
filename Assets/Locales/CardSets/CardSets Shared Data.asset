@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CardSets Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CardSets
+  m_TableCollectionNameGuidString: a2cdc6d0de2388444aef7a1b1fc3782d
+  m_Entries:
+  - m_Id: 29826195456
+    m_Key: Spanish Artists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131282214912
+    m_Key: Hints of Greece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157622444032
+    m_Key: Mythical Lusitania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182574358528
+    m_Key: Pantheon of deities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 193722818560
+    m_Key: Lusitanian Marvels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221375864832
+    m_Key: Hispania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 254812856320
+    m_Key: Independent Greece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281606070272
+    m_Key: Castles of Slovakia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323360366592
+    m_Key: Slovakia of Valor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335104417792
+    m_Key: "Cam\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360886804480
+    m_Key: Pessoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 393124225024
+    m_Key: Cervante's Heritage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417610571776
+    m_Key: Aristophanes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452649787392
+    m_Key: Writings of Tatra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 472799223808
+    m_Key: Ancient Heroes of Computation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495104532480
+    m_Key: Spanish Inventors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 528491192320
+    m_Key: Science Icons of Mankind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 547273285632
+    m_Key: Slava Ukraini
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 347260238882930688
+  references:
+    version: 2
+    RefIds:
+    - rid: 347260238882930688
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678999503883

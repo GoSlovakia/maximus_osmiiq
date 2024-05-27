@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AvatarCreationDescriptions Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AvatarCreationDescriptions
+  m_TableCollectionNameGuidString: 5a95299990ddd714db826ea3ac6c88b6
+  m_Entries:
+  - m_Id: 23490633728
+    m_Key: Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55174406144
+    m_Key: Head Accessory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209952612352
+    m_Key: Hair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240919158784
+    m_Key: Eyebrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300142731264
+    m_Key: Glasses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353800462336
+    m_Key: Eyes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380065193984
+    m_Key: Head Shape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438949027840
+    m_Key: Nose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 474680303616
+    m_Key: Feature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611745964032
+    m_Key: Sides
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707103465472
+    m_Key: Mouth Feature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 794068164608
+    m_Key: Mouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 869490139136
+    m_Key: Chin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 916638310400
+    m_Key: Jaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984112078848
+    m_Key: Left Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1039644663808
+    m_Key: Right Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1086415347712
+    m_Key: Body Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1188991246336
+    m_Key: Tail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222776365056
+    m_Key: Body Feature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1298139619328
+    m_Key: Body Cover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363533012992
+    m_Key: Body Shape
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2763512828231942151
+  references:
+    version: 2
+    RefIds:
+    - rid: 2763512828231942151
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678699317568

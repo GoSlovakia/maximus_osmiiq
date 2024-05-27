@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 383206393148c5041983752c0720346f
+  m_SerializeEntries:
+  - m_GUID: 9d9f8c89a677fd14f9c20aec5362ac2b
+    m_Address: Assets/AvatarParts/imgs/pack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Parts
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c122cac39fa48c8469df6ea11df06aa4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fb89a799721897c488c8a5b528e058c9, type: 2}
+    - {fileID: 11400000, guid: 07a15c48b528dd64f8b157c6eef05139, type: 2}

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AvatarCreation_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 55e75766992ec37449fb1c5b5c051ca6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 418860474368
+    m_Localized: Guardado!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1189622554624
+    m_Localized: "Cabe\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1279439380480
+    m_Localized: Maxilar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511183065088
+    m_Localized: Corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1581869670400
+    m_Localized: "M\xE3os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236225892360192
+    m_Localized: Cor Principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236267432747008
+    m_Localized: "Cor Secund\xE1ria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238280891604992
+    m_Localized: "N\xE3o guardaste o avatar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238895734628352
+    m_Localized: "As altera\xE7\xF5es ao Qiiby n\xE3o foram salvas e v\xE3o returnar
+      as altera\xE7\xF5es anteriores"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239226942038016
+    m_Localized: "Tens a certeza que queres sair do editor e descartar as tuas altera\xE7\xF5es?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239385784524800
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239416386166784
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

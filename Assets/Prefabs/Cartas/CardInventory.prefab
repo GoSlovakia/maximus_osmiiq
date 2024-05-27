@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6272421437183328610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6272421437183328612}
+  - component: {fileID: 6272421437183328613}
+  - component: {fileID: 6272421437183328615}
+  m_Layer: 0
+  m_Name: CardInventory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6272421437183328612
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6272421437183328610}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 74.454124, y: 386.08594, z: -50.6256}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6272421437183328613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6272421437183328610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9271bc89947f1f41a34d2f40403e567, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardInspectorPanel: {fileID: 0}
+  CardPrefabSerialize: {fileID: 3504601701646758564, guid: 7f9cd16bd4521c944bdfd6abf93db919, type: 3}
+  AllCardsParentSerialize: {fileID: 0}
+  CardIconsSerialize:
+  - {fileID: 11400000, guid: 5b3d1846e455f134b903b71dfb93f579, type: 2}
+  - {fileID: 11400000, guid: 67c3026fedb48174083ce73be9fc3d04, type: 2}
+  - {fileID: 11400000, guid: f6475479aa7a9224cbf8b02bff427ce9, type: 2}
+  - {fileID: 11400000, guid: 2ac7a84c0f019d44e8b025231a57fb80, type: 2}
+  - {fileID: 11400000, guid: 898a2f7a8dab95140aaac22a60af5174, type: 2}
+  - {fileID: 11400000, guid: 65c71f496f686c34b8943a01785df6c4, type: 2}
+--- !u!114 &6272421437183328615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6272421437183328610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6122703cb7467334c9feb00e6cbec727, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CardPrefab: {fileID: 590503302437988244, guid: 5d65ec9e24098524e8d29e3bdf75b67b, type: 3}
+  SetPrefab: {fileID: 3436847375365561989, guid: ee238e4b4915ab84fba588f200e1da5b, type: 3}
+  SetViewport: {fileID: 0}
+  RewardsReceivedPanel: {fileID: 0}
+  InspectCardPanel: {fileID: 0}
+  SetRewards: {fileID: 0}
+  Sets: []

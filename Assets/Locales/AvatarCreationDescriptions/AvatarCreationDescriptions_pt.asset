@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AvatarCreationDescriptions_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 5a95299990ddd714db826ea3ac6c88b6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23490633728
+    m_Localized: Coroa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55174406144
+    m_Localized: "Acess\xF3rio Cabe\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209952612352
+    m_Localized: Cabelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240919158784
+    m_Localized: Sobrancelhas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300142731264
+    m_Localized: "\xD3culos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353800462336
+    m_Localized: Olhos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380065193984
+    m_Localized: "Formato da Cabe\xE7a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438949027840
+    m_Localized: Nariz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 474680303616
+    m_Localized: "\rCaracter\xEDsticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611745964032
+    m_Localized: Lados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707103465472
+    m_Localized: "\rCaracter\xEDsticas da boca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 794068164608
+    m_Localized: Boca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 869490139136
+    m_Localized: Queixo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 916638310400
+    m_Localized: Maxilar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 984112078848
+    m_Localized: "M\xE3o Esquerda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1039644663808
+    m_Localized: "M\xE3o Direita"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1086415347712
+    m_Localized: Atras do corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1188991246336
+    m_Localized: Cauda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222776365056
+    m_Localized: "\rCaracter\xEDsticas do corpo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1298139619328
+    m_Localized: Cobertura do Corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363533012992
+    m_Localized: Forma do Corpo
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
